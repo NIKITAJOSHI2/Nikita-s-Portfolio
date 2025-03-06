@@ -2,7 +2,8 @@
 
 # 📊 Nikita Joshi - Data Analytics Portfolio
 
-![Nikita Joshi](profile.jpg)
+![Picture1](https://github.com/user-attachments/assets/fb273dc6-e260-4d0e-9760-acb00dffec2b)
+
 
 ## 👩‍💻 About Me
 Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQL, Tableau, Power BI, and Advanced Excel**. I am passionate about leveraging data to derive meaningful insights and improve business processes. 
