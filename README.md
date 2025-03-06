@@ -30,13 +30,13 @@ In today's fast-paced business environment, leveraging data is key to making inf
 ---
 
 ## 📂 Projects
-### **1️⃣ Sales Performance Dashboard** (Tableau)
-📌 **Overview**: Developed an interactive Tableau dashboard to analyze sales trends and customer behavior.  
+### **1️⃣ Analyzing Employee Trends** (Tableau)
+📌 **Overview**: Developed an interactive Tableau dashboard to analyze sales trends and Employee behavior.  
 ✅ **Results**: 
 - **Improved decision-making with real-time visualizations**
 - **Identified key revenue-driving products**
 
-🔗 **[Project Repository](#)** (Add Link)
+🔗 **[Project Repository](#)** ((http://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/Analyzing%20Employee%20Trends.twbx))
 
 ---
 
