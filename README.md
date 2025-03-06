@@ -1,8 +1,9 @@
 # Nikita-Portfolio
-
 ## Analyzing Employee Trends
 
  [Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
+
+http://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/Analyzing%20Employee%20Trends.twbx
 
  ## Project Description
 
@@ -30,6 +31,8 @@ Some key visualizations include:
 
  [Exploring Trends in the Automotive Industry.twbx](Exploring Trends in the Automotive Industry.png)
 
+https://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/Exploring%20Trends%20in%20the%20Automotive%20Industry.twbx
+
  ## Project Description
 
  This project involved creating an interactive Tableau dashboard to visualize and analyze used car sales data. The key goals were to:
@@ -54,6 +57,10 @@ Key visualizations include:
 ## CallCenter Data Analysis
 
  [CallCenter Data Analysis.twbx](Callcenter Data Analysis.png)
+
+ https://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/CallCenter_Data%20Analysis.png
+
+https://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/CallCenter_Data%20Analysis_Nikita_project.twbx
 
  ## Project Description
 
