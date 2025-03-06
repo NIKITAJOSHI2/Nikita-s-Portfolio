@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 Hello! I'm Nikita Joshi, an MBA graduate with expertise in business strategy and data analysis. I specialize in using tools like SQL, Tableau, and Advanced Excel to turn data into actionable insights that drive business decisions.
 
-With a focus on data visualization, predictive modeling, and statistical analysis (including regression and ANOVA), I help organizations uncover trends, improve performance, and optimize decision-making. My goal is to combine technical proficiency with business acumen to deliver data-driven solutions that support strategic growth.
+With a focus on data visualization and statistical analysis (including regression and ANOVA), I help organizations uncover trends, improve performance, and optimize decision-making. My goal is to combine technical proficiency with business acumen to deliver data-driven solutions that support strategic growth.
 
 
 ## 📌 Key Skills
