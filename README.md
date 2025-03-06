@@ -54,12 +54,20 @@ In today's fast-paced business environment, leveraging data is key to making inf
 
 
 
+### **2️⃣ Call Center Data Analysis**
+📌 **Overview**: Performed data cleaning and transformation on large datasets using SQL queries.  
+✅ **Results**: 
+- **Optimized data processing efficiency**
+- **Enhanced data accuracy for business reporting**
+
+🔗 **[Project Repository](#)** (CallCenter Data Analysis.twbx)
+
+
+
 
 ## Analyzing Employee Trends
 
  [Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
-
-http://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/Analyzing%20Employee%20Trends.twbx
 
  ## Project Description
 
@@ -86,8 +94,6 @@ Some key visualizations include:
 ## Exploring Trends in the Automotive Industry
 
  [Exploring Trends in the Automotive Industry.twbx](Exploring Trends in the Automotive Industry.png)
-
-https://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/Exploring%20Trends%20in%20the%20Automotive%20Industry.twbx
 
  ## Project Description
 
@@ -159,6 +165,7 @@ Key visualizations include:
 ## 📬 Connect with Me
 📧 **Email**: nikitajoshi360@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/nikita-joshi](https://www.linkedin.com/in/nikita-joshi)
+🔗 **Github Profile**: (https://github.com/NIKITAJOSHI2)
 
 
 
