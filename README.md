@@ -44,13 +44,13 @@ In today's fast-paced business environment, leveraging data is key to making inf
 
 ---
 
-### **2️⃣ SQL-Based Data Cleaning & Analysis**
+### **2️⃣ Exploring Trends in the Automotive Industry**
 📌 **Overview**: Performed data cleaning and transformation on large datasets using SQL queries.  
 ✅ **Results**: 
 - **Optimized data processing efficiency**
 - **Enhanced data accuracy for business reporting**
 
-🔗 **[Project Repository](#)** (Add Link)
+🔗 **[Project Repository](#)** (https://github.com/NIKITAJOSHI2/Nikita-s-Portfolio/blob/main/Exploring%20Trends%20in%20the%20Automotive%20Industry.csv)
 
 
 
