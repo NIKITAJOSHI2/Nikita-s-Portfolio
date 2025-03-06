@@ -13,7 +13,7 @@ With a focus on data visualization and statistical analysis (including regressio
 
 ## 📌 Key Skills
 - **Data Visualization**: Tableau, Power BI  
-- **Database Management**: SQL, SSIS  
+- **Database Management**: SQL 
 - **Data Analysis**: Excel (Pivot Tables, VLOOKUP)  
 - **ETL & Data Processing**: Power Query, SQL Queries  
 - **Reporting & Business Intelligence**
