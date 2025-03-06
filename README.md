@@ -15,7 +15,7 @@ With a focus on data visualization and statistical analysis (including regressio
 - **Data Visualization**: Tableau, Power BI  
 - **Database Management**: SQL 
 - **Data Analysis**: Excel (Pivot Tables, VLOOKUP)  
-- **ETL & Data Processing**: Power Query, SQL Queries  
+- **ETL & Data Processing**:  SQL Queries  
 - **Reporting & Business Intelligence**
 
 
