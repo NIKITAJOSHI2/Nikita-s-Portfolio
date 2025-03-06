@@ -1,4 +1,72 @@
 # Nikita-Portfolio
+
+# 📊 Nikita Joshi - Data Analytics Portfolio
+
+![Nikita Joshi](profile.jpg)
+
+## 👩‍💻 About Me
+Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQL, Tableau, Power BI, Python, and Advanced Excel**. I am passionate about leveraging data to derive meaningful insights and improve business processes. 
+
+## 📌 Key Skills
+- **Data Visualization**: Tableau, Power BI  
+- **Database Management**: SQL, SSIS  
+- **Data Analysis**: Python (Pandas, NumPy), Excel (Pivot Tables, VLOOKUP)  
+- **ETL & Data Processing**: Power Query, SQL Queries  
+- **Reporting & Business Intelligence**
+
+---
+
+## 📂 Projects
+### **1️⃣ Sales Performance Dashboard** (Tableau)
+📌 **Overview**: Developed an interactive Tableau dashboard to analyze sales trends and customer behavior.  
+✅ **Results**: 
+- **Improved decision-making with real-time visualizations**
+- **Identified key revenue-driving products**
+
+🔗 **[Project Repository](#)** (Add Link)
+
+---
+
+### **2️⃣ SQL-Based Data Cleaning & Analysis**
+📌 **Overview**: Performed data cleaning and transformation on large datasets using SQL queries.  
+✅ **Results**: 
+- **Optimized data processing efficiency**
+- **Enhanced data accuracy for business reporting**
+
+🔗 **[Project Repository](#)** (Add Link)
+
+---
+
+### **3️⃣ Customer Segmentation Using Python**
+📌 **Overview**: Applied clustering techniques in Python to segment customers based on purchasing behavior.  
+✅ **Results**: 
+- **Helped businesses target high-value customers**
+- **Improved marketing strategy effectiveness**
+
+🔗 **[Project Repository](#)** (Add Link)
+
+---
+
+## 📜 Certifications
+✅ **Standard Data Analytics Certification (Coding Ninja)**  
+✅ **Tableau and SQL for Data Analytics (Coursera/Other)**  
+✅ **Advanced Excel for Data Analysis**  
+
+---
+
+## 📊 Tools & Technologies
+- **SQL, SSIS, Tableau, Power BI**
+- **Python (Pandas, NumPy, Matplotlib)**
+- **Excel (Pivot Tables, VLOOKUP, Power Query)**
+- **ETL & Data Transformation**
+
+---
+
+## 📬 Connect with Me
+📧 **Email**: nikitajoshi360@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/nikita-joshi](https://www.linkedin.com/in/nikita-joshi)
+
+
 ## Analyzing Employee Trends
 
  [Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
