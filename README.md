@@ -11,7 +11,7 @@ Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQ
 ## 📌 Key Skills
 - **Data Visualization**: Tableau, Power BI  
 - **Database Management**: SQL, SSIS  
-- **Data Analysis**: Python (Pandas, NumPy), Excel (Pivot Tables, VLOOKUP)  
+- **Data Analysis**: Excel (Pivot Tables, VLOOKUP)  
 - **ETL & Data Processing**: Power Query, SQL Queries  
 - **Reporting & Business Intelligence**
 
