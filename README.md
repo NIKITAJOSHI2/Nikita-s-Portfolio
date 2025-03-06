@@ -5,7 +5,7 @@
 ![Nikita Joshi](profile.jpg)
 
 ## 👩‍💻 About Me
-Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQL, Tableau, Power BI, Python, and Advanced Excel**. I am passionate about leveraging data to derive meaningful insights and improve business processes. 
+Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQL, Tableau, Power BI, and Advanced Excel**. I am passionate about leveraging data to derive meaningful insights and improve business processes. 
 
 ## 📌 Key Skills
 - **Data Visualization**: Tableau, Power BI  
@@ -13,6 +13,19 @@ Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQ
 - **Data Analysis**: Python (Pandas, NumPy), Excel (Pivot Tables, VLOOKUP)  
 - **ETL & Data Processing**: Power Query, SQL Queries  
 - **Reporting & Business Intelligence**
+
+
+
+### Why This Portfolio?
+
+In today's fast-paced business environment, leveraging data is key to making informed decisions. With my MBA background, I approach data analysis from a business-oriented perspective, focusing on delivering insights that contribute directly to business growth, efficiency, and strategic success. Here, you'll find various projects where I’ve utilized my technical skills in **SQL** and **Tableau** while aligning them with core business objectives.
+
+### Key Highlights:
+- **Data-Driven Business Decisions:** Using data analysis to optimize performance, streamline operations, and enhance decision-making.
+- **Technologies Used:** **SQL** (for querying databases), **Tableau** (for data visualization), and advanced data analysis techniques.
+- **Business-Oriented Approach:** My analysis aligns with business goals, providing insights that directly impact strategic decisions and outcomes.
+
+
 
 ---
 
@@ -35,36 +48,7 @@ Hi, I'm **Nikita Joshi**, a **Data Analytics Enthusiast** with expertise in **SQ
 
 🔗 **[Project Repository](#)** (Add Link)
 
----
 
-### **3️⃣ Customer Segmentation Using Python**
-📌 **Overview**: Applied clustering techniques in Python to segment customers based on purchasing behavior.  
-✅ **Results**: 
-- **Helped businesses target high-value customers**
-- **Improved marketing strategy effectiveness**
-
-🔗 **[Project Repository](#)** (Add Link)
-
----
-
-## 📜 Certifications
-✅ **Standard Data Analytics Certification (Coding Ninja)**  
-✅ **Tableau and SQL for Data Analytics (Coursera/Other)**  
-✅ **Advanced Excel for Data Analysis**  
-
----
-
-## 📊 Tools & Technologies
-- **SQL, SSIS, Tableau, Power BI**
-- **Python (Pandas, NumPy, Matplotlib)**
-- **Excel (Pivot Tables, VLOOKUP, Power Query)**
-- **ETL & Data Transformation**
-
----
-
-## 📬 Connect with Me
-📧 **Email**: nikitajoshi360@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/nikita-joshi](https://www.linkedin.com/in/nikita-joshi)
 
 
 ## Analyzing Employee Trends
@@ -148,5 +132,29 @@ Key visualizations include:
 - Response time analysis against service level agreements
 - Call center volume and performance by location
 - Channel analysis comparing call center, email, chat, and web
+
+
+
+---
+
+## 📜 Certifications
+✅ **Data Driven Digital Marketing**  
+✅ **Tableau and SQL for Data Analytics (Coursera/Others)**  
+✅ **Advanced Excel for Data Analysis**  
+✅ **Power BI Udemy Certificate**
+
+---
+
+## 📊 Tools & Technologies
+- **SQL, Tableau, Power BI**
+- **Excel (Pivot Tables, VLOOKUP, Power Query)**
+- **ETL & Data Transformation**
+
+---
+
+## 📬 Connect with Me
+📧 **Email**: nikitajoshi360@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/nikita-joshi](https://www.linkedin.com/in/nikita-joshi)
+
 
 
